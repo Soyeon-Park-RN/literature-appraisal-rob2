@@ -2,7 +2,6 @@
 
 RCT 논문의 비뚤림 위험을 평가하는 RoB 2를 Claude와 함께 연습하는 스킬입니다. 
 논문 PDF를 올리면 다섯 개 도메인의 질문이 대화창에 하나씩 나타납니다. 
-최종 결정은 언제나 여러분이 합니다. 
 결과는 신호등 표가 들어 있는 엑셀로 받습니다.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
@@ -87,7 +86,6 @@ ANDA Lab: https://andalab.snu.ac.kr/
 
 A Claude skill for practising RoB 2, the risk-of-bias tool for RCT papers.
 Upload a paper (PDF) and the questions for the five domains appear one at a time in the chat.
-The final decision is always yours.
 Results come back as an Excel file with a traffic-light table.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
