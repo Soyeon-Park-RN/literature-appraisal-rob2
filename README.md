@@ -1,8 +1,8 @@
 # RoB 2 Quality Appraisal — Claude Skill
 
-RCT 논문의 비뚤림 위험을 평가하는 RoB 2를 Claude와 함께 연습하는 스킬입니다. 논문 PDF를 올리면 다섯 개 도메인의 질문이 대화창에 하나씩 나타납니다. 질문마다 논문의 어디를 보면 되는지, 어떤 점을 헷갈리기 쉬운지 안내가 붙어 있으니 그걸 참고해 먼저 답을 고르세요. 그다음 Claude의 답과 비교합니다. 
-답이 다르면 왜 다른지(이 질문이 무엇을 가려내려는지, 논문의 어느 문장이 근거인지, 왜 그 답인지)자세히 설명해 줍니다. 
-최종 결정은 언제나 여러분이 합니다. 도메인 판정과 전체 판정은 여러분의 답을 RoB 2 규칙에 넣어 자동으로 나오고, 어떤 답이 판정을 결정했는지도 보여 줍니다. 
+RCT 논문의 비뚤림 위험을 평가하는 RoB 2를 Claude와 함께 연습하는 스킬입니다. 
+논문 PDF를 올리면 다섯 개 도메인의 질문이 대화창에 하나씩 나타납니다. 
+최종 결정은 언제나 여러분이 합니다. 
 결과는 신호등 표가 들어 있는 엑셀로 받습니다.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
@@ -85,7 +85,10 @@ ANDA Lab: https://andalab.snu.ac.kr/
 
 # RoB 2 Quality Appraisal — Claude Skill (English)
 
-A Claude skill for practising RoB 2, the Cochrane risk-of-bias tool for randomized trials. Upload an RCT paper and the questions for the five domains appear one at a time in the chat. Each question comes with a note on where to look in the paper and what is easy to get wrong — use it to choose your answer first. Then compare with Claude's answer. Where they differ, you get a full explanation: what the question is really asking, which sentence in the paper is the evidence, and why that answer follows. The final decision is always yours. Domain and overall judgements are produced automatically by putting your answers through the RoB 2 rules, and you are shown which answer determined each judgement. Results come back as an Excel file with a traffic-light table.
+A Claude skill for practising RoB 2, the risk-of-bias tool for RCT papers.
+Upload a paper (PDF) and the questions for the five domains appear one at a time in the chat.
+The final decision is always yours.
+Results come back as an Excel file with a traffic-light table.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
