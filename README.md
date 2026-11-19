@@ -1,6 +1,9 @@
 # RoB 2 Quality Appraisal — Claude Skill
 
-RCT 논문의 비뚤림 위험을 평가하는 RoB 2를 Claude와 함께 연습하는 스킬입니다. 논문 PDF를 올리면 다섯 개 도메인의 질문이 대화창에 하나씩 나타납니다. 질문마다 논문의 어디를 보면 되는지, 어떤 점을 헷갈리기 쉬운지 안내가 붙어 있으니 그걸 참고해 먼저 답을 고르세요. 그다음 Claude의 답과 비교합니다. 답이 다르면 왜 다른지 — 이 질문이 무엇을 가려내려는지, 논문의 어느 문장이 근거인지, 왜 그 답인지 — 자세히 설명해 줍니다. 최종 결정은 언제나 여러분이 합니다. 도메인 판정과 전체 판정은 여러분의 답을 RoB 2 규칙에 넣어 자동으로 나오고, 어떤 답이 판정을 결정했는지도 보여 줍니다. 결과는 신호등 표가 들어 있는 엑셀로 받습니다.
+RCT 논문의 비뚤림 위험을 평가하는 RoB 2를 Claude와 함께 연습하는 스킬입니다. 논문 PDF를 올리면 다섯 개 도메인의 질문이 대화창에 하나씩 나타납니다. 질문마다 논문의 어디를 보면 되는지, 어떤 점을 헷갈리기 쉬운지 안내가 붙어 있으니 그걸 참고해 먼저 답을 고르세요. 그다음 Claude의 답과 비교합니다. 
+답이 다르면 왜 다른지(이 질문이 무엇을 가려내려는지, 논문의 어느 문장이 근거인지, 왜 그 답인지)자세히 설명해 줍니다. 
+최종 결정은 언제나 여러분이 합니다. 도메인 판정과 전체 판정은 여러분의 답을 RoB 2 규칙에 넣어 자동으로 나오고, 어떤 답이 판정을 결정했는지도 보여 줍니다. 
+결과는 신호등 표가 들어 있는 엑셀로 받습니다.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
@@ -64,9 +67,7 @@ RoB 2 도구 내용(`references/rob2_tool.md`, `references/rob2_teaching.md`에 
 
 rnsy1029@snu.ac.kr
 
-## 검토
-
-최정인 (Jeongin Choe) — 서울대학교 간호대학 박사과정 · 검토·개선
+최정인 (Jeongin Choe) — 수원과학대학교 조교수 · 검토·개선
 
 nncj91@snu.ac.kr
 
@@ -148,9 +149,7 @@ Soyeon Park (박소연) — Doctoral Student, College of Nursing, Seoul National
 
 rnsy1029@snu.ac.kr
 
-## Reviewer
-
-Jeongin Choe (최정인) — Doctoral Student, College of Nursing, Seoul National University · Review and improvement
+Jeongin Choe (최정인) — Assistant Professor, Suwon Science College · Review and improvement
 
 nncj91@snu.ac.kr
 
