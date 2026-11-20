@@ -21,7 +21,7 @@ RCT 논문의 비뚤림 위험을 평가하는 RoB 2를 Claude와 함께 연습�
 
 ## 설치 및 사용 방법
 
-1. literature-appraisal-rob2.skill 다운로드
+1. [literature-appraisal-rob2.skill](https://github.com/rnrnrnn1234/literature-appraisal-rob2/raw/main/literature-appraisal-rob2.skill) 다운로드
 2. Claude.ai → 대화창 "+" 클릭 → 스킬 클릭 → 스킬 관리 클릭 → "추가" 클릭 → "스킬 업로드" 클릭 → 다운로드 받은 스킬 업로드
 3. 새 대화에 RCT 논문 PDF 1편을 첨부하고 "+" 클릭 후 스킬 선택 후 Enter
 4. Claude가 정리한 논문 개요를 읽고, 다르면 고쳐 줍니다
@@ -105,7 +105,7 @@ Results come back as an Excel file with a traffic-light table.
 
 ## Installation & Usage
 
-1. Download literature-appraisal-rob2.skill
+1. Download [literature-appraisal-rob2.skill](https://github.com/rnrnrnn1234/literature-appraisal-rob2/raw/main/literature-appraisal-rob2.skill)
 2. In Claude.ai, click "+" in the chat box → Skills → Manage skills → Add → Upload skill → upload the downloaded file
 3. In a new chat, attach one RCT paper (PDF), click "+", select the skill and press Enter
 4. Read Claude's study summary and correct it if needed
