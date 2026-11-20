@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this skill, please cite it as below, and also cite the original RoB 2 publication (Sterne et al., BMJ 2019)."
+type: software
+title: "literature-appraisal-rob2: A Claude skill for learning RoB 2 risk-of-bias assessment of randomized trials"
+version: "1.0"
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/rnrnrnn1234/literature-appraisal-rob2"
+authors:
+  - family-names: Park
+    given-names: Soyeon
+    affiliation: "College of Nursing, Seoul National University"
+    email: rnsy1029@snu.ac.kr
+  - family-names: Choe
+    given-names: Jeongin
+    affiliation: "Suwon Science College"
+  - family-names: Woo
+    given-names: Kyungmi
+    affiliation: "College of Nursing, Seoul National University"
+keywords:
+  - risk of bias
+  - RoB 2
+  - randomized controlled trial
+  - systematic review
+  - nursing education
+  - Claude skill
+references:
+  - type: article
+    title: "RoB 2: a revised tool for assessing risk of bias in randomised trials"
+    authors:
+      - family-names: Sterne
+        given-names: Jonathan A C
+    journal: BMJ
+    year: 2019
+    volume: 366
+    start: l4898
+    doi: 10.1136/bmj.l4898
