@@ -57,8 +57,8 @@ RoB 2 도구(가이던스 문서·cribsheet, 2019년 8월 22일 버전)는 RoB 2
 
 ## 라이선스
 
-소스 코드 및 스킬 문서: MIT License © 2026 Soyeon Park
-RoB 2 도구 내용(`references/rob2_tool.md`, `references/rob2_teaching.md`에 요약된 신호질문·알고리즘): © RoB 2 Development Group, CC BY-NC-ND 4.0 — 비영리 목적에 한하며 원 출처를 표기해야 합니다.
+* 소스 코드 및 스킬 문서: [MIT License](https://github.com/rnrnrnn1234/literature-appraisal-rob2/blob/main/LICENSE) © 2026 Soyeon Park
+* RoB 2 도구 내용(`references/rob2_tool.md`, `references/rob2_teaching.md`에 요약된 신호질문·알고리즘): © RoB 2 Development Group, CC BY-NC-ND 4.0 — 비영리 목적에 한하며 원 출처를 표기해야 합니다.
 
 ## 제작자
 
@@ -141,8 +141,8 @@ The RoB 2 tool (guidance document and cribsheet, version 22 August 2019) is dist
 
 ## License
 
-Source code and skill documentation: MIT License © 2026 Soyeon Park
-RoB 2 tool content (signalling questions and algorithms summarized in `references/rob2_tool.md` and `references/rob2_teaching.md`): © RoB 2 Development Group, CC BY-NC-ND 4.0 — non-commercial use only, with attribution to the original source.
+* Source code and skill documentation: [MIT License](https://github.com/rnrnrnn1234/literature-appraisal-rob2/blob/main/LICENSE) © 2026 Soyeon Park
+* RoB 2 tool content (signalling questions and algorithms summarized in `references/rob2_tool.md` and `references/rob2_teaching.md`): © RoB 2 Development Group, CC BY-NC-ND 4.0 — non-commercial use only, with attribution to the original source.
 
 ## Author
 
