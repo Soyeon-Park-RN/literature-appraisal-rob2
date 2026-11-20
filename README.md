@@ -1,5 +1,5 @@
 # RoB 2 Quality Appraisal — Claude Skill
-![For students](https://img.shields.io/badge/For-Undergraduate%20Students-blue.svg)
+![For students](https://img.shields.io/badge/For-Students-blue.svg)
 
 RCT 논문의 비뚤림 위험을 평가하는 RoB 2를 Claude와 함께 연습하는 스킬입니다. 
 논문 PDF를 올리면 다섯 개 도메인의 질문이 대화창에 하나씩 나타납니다. 
