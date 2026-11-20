@@ -148,17 +148,14 @@ The RoB 2 tool (guidance document and cribsheet, version 22 August 2019) is dist
 ## Author
 
 Soyeon Park (박소연) — Doctoral Student, College of Nursing, Seoul National University · Design and development
-
 rnsy1029@snu.ac.kr
 
 Jeongin Choe (최정인) — Assistant Professor, Suwon Science College · Review and improvement
-
-nncj91@snu.ac.kr
+choe2026@ssc.ac.kr
 
 ## Advisor
 
 Kyungmi Woo (우경미) — Associate Professor, College of Nursing, Seoul National University
-
 ANDA Lab: https://andalab.snu.ac.kr/
 
 ## Acknowledgements
