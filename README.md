@@ -6,7 +6,7 @@ RCT 논문의 비뚤림 위험을 평가하는 RoB 2를 Claude와 함께 연습�
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/1296350396.svg)](https://doi.org/10.5281/zenodo.21373604)
 
 ## 이 스킬로 할 수 있는 것
 
@@ -51,7 +51,7 @@ Sterne JAC, Savović J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB 2
 
 이 스킬 자체를 인용할 때는 아래 형식을 사용해 주세요(필요시):
 
-Park S., Choe J., Woo K. (2026). literature-appraisal-rob2: A Claude skill for learning RoB 2 risk-of-bias assessment of randomized trials (Version 1.0) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.XXXXXXXX
+Park S., Choe J., Woo K. (2026). literature-appraisal-rob2: A Claude skill for learning RoB 2 risk-of-bias assessment of randomized trials (Version 1.0) [Computer software]. ANDA Lab, Seoul National University College of Nursing. [https://doi.org/10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.21373604)
 
 RoB 2 도구(가이던스 문서·cribsheet, 2019년 8월 22일 버전)는 RoB 2 Development Group이 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) 라이선스로 배포합니다. 이 스킬은 해당 도구의 신호질문과 알고리즘을 요약·의역해 학습용으로 재구성한 독립 구현물이며, Cochrane 및 RoB 2 Development Group의 공식 승인을 받은 것은 아닙니다. 원본: https://www.riskofbias.info
 
@@ -90,7 +90,7 @@ Results come back as an Excel file with a traffic-light table.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/1296350396.svg)](https://doi.org/10.5281/zenodo.21373604)
 
 ## What you can do with this skill
 
@@ -135,7 +135,7 @@ Sterne JAC, Savović J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB 2
 
 If you wish to cite this skill itself, please use the following format:
 
-Park S., Choe J., Woo K. (2026). literature-appraisal-rob2: A Claude skill for learning RoB 2 risk-of-bias assessment of randomized trials (Version 1.0) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.XXXXXXXX
+Park S., Choe J., Woo K. (2026). literature-appraisal-rob2: A Claude skill for learning RoB 2 risk-of-bias assessment of randomized trials (Version 1.0) [Computer software]. ANDA Lab, Seoul National University College of Nursing. [https://doi.org/10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.21373604)
 
 The RoB 2 tool (guidance document and cribsheet, version 22 August 2019) is distributed by the RoB 2 Development Group under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) license. This skill is an independent implementation that summarizes and paraphrases the tool's signalling questions and algorithms for educational use, and is not officially endorsed by Cochrane or the RoB 2 Development Group. Original: https://www.riskofbias.info
 
