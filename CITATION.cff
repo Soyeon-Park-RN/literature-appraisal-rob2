@@ -3,6 +3,7 @@ message: "If you use this skill, please cite it as below, and also cite the orig
 type: software
 title: "literature-appraisal-rob2: A Claude skill for learning RoB 2 risk-of-bias assessment of randomized trials"
 version: "1.0"
+doi: 10.5281/zenodo.21373604
 date-released: 2026-11-20
 license: MIT
 repository-code: "https://github.com/rnrnrnn1234/literature-appraisal-rob2"
