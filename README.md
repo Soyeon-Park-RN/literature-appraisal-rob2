@@ -69,7 +69,7 @@ rnsy1029@snu.ac.kr
 
 최정인 (Jeongin Choe) — 수원과학대학교 조교수 · 검토·개선
 
-nncj91@snu.ac.kr
+choe2026@ssc.ac.kr
 
 ## 지도교수
 
